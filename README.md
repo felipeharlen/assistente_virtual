@@ -17,7 +17,7 @@ Este é um projeto de assistente virtual simples em Python, desenvolvido como pa
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.8
 - Bibliotecas Python: speech_recognition, pyttsx3, wikipedia, webbrowser, winshell
 
 ---
