@@ -12,7 +12,7 @@ Este é um projeto de assistente virtual simples em Python, desenvolvido como pa
 ## Como Usar
 
 1. Clone o repositório para sua máquina local.
-2. Execute o script Python (`assistente_virtual.ipynb`).
+2. Execute o script Python (`assistente_virtual.py`).
 3. Fale com o assistente virtual!
 
 ## Requisitos
